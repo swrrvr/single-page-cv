@@ -2,6 +2,10 @@
 
 A CV template for Web Developers
 
+### Project Page
+
+https://roadmap.sh/projects/single-page-cv
+
 ### To run this project locally:
 
 Clone
